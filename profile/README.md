@@ -34,7 +34,6 @@ We distinguish **implemented capabilities**, **research hypotheses**, and **inde
 
 | Project | Focus | Repository |
 |:--|:--|:--|
-| **AI Change Radar** | Tracking AI vendor changes and turning them into practical SMB briefings | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/ai-change-radar) |
 | **AZxAI Navigator** | Workflow impact analysis and decision planning (companion to Radar) | [Explore →](https://github.com/Axiom-Zeta-Innovations-LLC/azxai-navigator) |
 | **Quadra M.I.N.D. Sight** | Metacognitive exploration and guided reflection — live on Google Play | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/quadra-mind-sight) |
 | **EqualiF.I. Planner** | Financial independence planner (PWA) | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/equalifi-planner) |
